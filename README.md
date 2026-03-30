@@ -14,8 +14,8 @@ The goal of this work was to:
 ## Repository Structure
 
 ```text
-.
-├── dockerfile
+.—— docker-bake.hcl
+├── Dockerfile
 ├── scripts/
 │   ├── start.sh
 │   └── post_start.sh
@@ -23,6 +23,7 @@ The goal of this work was to:
     ├── nginx.conf
     ├── readme.html
     └── README.md
+
 ```
 ## Base Environment
 
